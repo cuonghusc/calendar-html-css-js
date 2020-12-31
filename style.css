@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table th {
+    text-align: center;
+    width: 100px;
+}
+table td {
+    line-height: 50px !important;
+    text-align: right;
+}
+table td:hover{
+    background-color: #e7e7e7;
+    cursor: pointer;
+}
+.today{
+    background-color: #49DCB1;
+}
